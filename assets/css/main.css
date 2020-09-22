@@ -325,6 +325,10 @@
 		align-self: center;
 	}
 
+	#aboutusrow p{
+		text-align: justify;
+	}
+
 		.row > * {
 			box-sizing: border-box;
 		}
